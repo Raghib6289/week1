@@ -11,6 +11,7 @@
 
 # For site-wide unique tags: A set can be used to aggregate all tags and find the unique one
 
+
 # Tags for Article 1
 article1_tags = {"python", "backend", "webdev", "programming", "python"} # Duplicate 'python' is ignored
 
