@@ -25,6 +25,7 @@
 
 # Let's modify our rectangle area calculation to accept length and width as arguments:
 
+
 def calculate_rectangle_area(length, width):
     area = length * width
     print(f"The area of a rectangle with length {length} and width {width} is: {area}")
