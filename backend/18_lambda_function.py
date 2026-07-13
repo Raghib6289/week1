@@ -67,6 +67,7 @@ data = [10, -5, 20, 0, -15, 30]
 # 1. Filter out negative numbers
 positive_data = list(filter(lambda x: x >= 0, data))
 
+
 # 2. Square the positive numbers
 squared_positive_data = list(map(lambda x: x**2, positive_data))
 
