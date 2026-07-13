@@ -21,6 +21,7 @@ print(multiply(4, 6)) # Output: 24
 print(multiply(10, 2)) # Output: 20
 
 
+
 # 1. map(): Applying a function to each item in an iterable.
 
 # map(function, iterable) applies function to every item of iterable and returns a map object (which can be converted to a list).
