@@ -10,6 +10,7 @@
 
 # A dictionary is the perfect fit because: 
 
+
 # 1. It allows us to store key-value pairs, where the key is the name of the information (e.g., "username") and the value is the actual data (e.g., "john_doe").
 # 2. It provides O(1) average time complexity for lookups, making it efficient to access any piece of information by its name.      
 
