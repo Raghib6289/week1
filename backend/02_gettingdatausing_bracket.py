@@ -7,6 +7,7 @@ user_profile = {
 print(user_profile["username"]) # Output: johndoe
 print(user_profile["age"])      # Output: 30
 
+
 # Accessing a nested value
 student = {
     "name": "Alice",
