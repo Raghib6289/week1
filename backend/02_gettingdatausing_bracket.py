@@ -17,5 +17,6 @@ student = {
 }
 print(student["details"]["major"]) # Output: Computer Science
 
+
 # Attempting to access a non-existent key will raise a KeyError:
 # print(user_profile["city"]) # This would cause a KeyError
