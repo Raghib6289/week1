@@ -11,6 +11,7 @@
 
 # --- Function 1: Filter Even Numbers from a List --- 
 
+
 def filter_even_numbers(numbers_list):
     """Filters a list of numbers and returns a new list containing only even numbers."""
     even_numbers = []
