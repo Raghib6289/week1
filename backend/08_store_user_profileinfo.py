@@ -22,6 +22,7 @@ user_profile = {
     "hobbies": ["coding", "reading", "hiking"]
 }
 
+
 # Accessing information
 print(f"Username: {user_profile['username']}")
 print(f"Email: {user_profile.get('email')}")
