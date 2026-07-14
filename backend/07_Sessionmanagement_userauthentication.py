@@ -35,4 +35,5 @@ print(f"Is sess_xyz789 active? {is_session_active('sess_xyz789')}") # False
 logout_user("sess_abc123")
 print(f"Is sess_abc123 active after logout? {is_session_active('sess_abc123')}") # False
 
+
 logout_user("sess_xyz789") # Session not found
