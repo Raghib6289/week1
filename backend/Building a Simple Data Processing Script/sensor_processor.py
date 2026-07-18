@@ -10,7 +10,6 @@
 # Let's walk through the process with a practical example. We'll create a module for performing some basic string manipulation tasks.
 
 
-
 import random
 import math # Included for potential future use, not strictly needed for current task
 
